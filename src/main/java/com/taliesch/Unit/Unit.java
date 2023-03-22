@@ -107,6 +107,10 @@ public class Unit {
         return unitName;
     }
 
+    public String getUnitFactory(){
+        return unitFactory;
+    }
+
     public boolean getUnitExistsInArsenal(){
         return unitExistsInArsenal;
     }
